@@ -2,3 +2,4 @@ note de version
 faire un correctif
 une longue feature
 tjs longue feautrue
+note de version v2
